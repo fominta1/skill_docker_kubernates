@@ -10,8 +10,8 @@ This demo app shows a simple user profile app set up using
 All components are docker-based
 
 #### To start as K8s pod
-    docker build -t xelorr/k8s-demo-app:v1.0 .
-    docker push xelorr/k8s-demo-app:v1.0
+    docker build -t fominta1/k8s-demo-app:v1.0 .
+    docker push fominta1/k8s-demo-app:v1.0
 
 
 
